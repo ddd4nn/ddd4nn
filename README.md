@@ -2,13 +2,13 @@
 
 ## Apresentação
  - Meu nome é Danilo Martins Acosta e tenho 22 anos.
- - Atualmente estou no oitavo semestre de **Ciência da computação** no **Cesupa**.
- - Adoro esportes principalmente Futebol e Basquete   
+ - Atualmente estou no quarto semestre de **Ciência da computação** no **Cesupa**.
+ - Adoro esportes, música e jogos.   
 
 ### Bio
-- 💕 Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
-- ✍ Me aprofundando na stack backend para futuramente me tornar um fullstack dev
-- 📚 Estudando: ReactJS e NodeJS
+- 💕 Sou aspirante a engenheiro de dados e gosto de resolver problemas.
+- ✍ Me aprofundando na stack de dados para futuramente me tornar um engenheiro de dados.
+- 📚 Estudando: Python, SQL e Power BI.
 
 ### Linguagens e Ferramentas
 
