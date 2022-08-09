@@ -130,20 +130,12 @@
   </a>
 </p>
 
-### Github Stats
-<div>
-  <a href="https://github.com/MarceloCChaves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloCChaves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloCChaves&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 <hr/>
 
 ### Encontre-me na web 🌎:
  
-<a href="https://www.instagram.com/marcelocchaves_/">
-  <img align="left" alt="Marcelo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/marcelocchaves/">
+<a href="https://www.linkedin.com/in/danilo-acosta-65477b184/">
   <img align="left" alt="Marcelo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
