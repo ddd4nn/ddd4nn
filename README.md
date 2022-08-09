@@ -3,7 +3,7 @@
 ## Apresentação
  - Meu nome é Danilo Martins Acosta e tenho 22 anos.
  - Atualmente estou no quarto semestre de **Ciência da computação** no **Cesupa**.
- - Adoro esportes, música e jogos.   
+ - Adoro mexer com peças de computador, sistemas, música e jogos.   
 
 ### Bio
 - 💕 Sou aspirante a engenheiro de dados e gosto de resolver problemas.
@@ -40,14 +40,6 @@
     <img
       src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png"
       alt="Javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pt-br.reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      alt="React"
       width="40"
       height="40"
     />
