@@ -128,6 +128,6 @@
 
 ### Encontre-me na web 🌎:
  
-<a href="https://www.linkedin.com/in/danilo-acosta-65477b184/">
+<a href="https://www.linkedin.com/in/danilo-acosta/">
   <img align="left" alt="Marcelo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
