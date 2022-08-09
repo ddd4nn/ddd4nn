@@ -3,7 +3,7 @@
 ## Apresentação
  - Meu nome é Danilo Martins Acosta e tenho 22 anos.
  - Atualmente estou no quarto semestre de **Ciência da computação** no **Cesupa**.
- - Adoro mexer com peças de computador, sistemas, música e jogos.   
+ - Adoro mexer com peças de computador, sistemas e eletronicos. Também curto muito música e jogos.   
 
 ### Bio
 - 💕 Sou aspirante a engenheiro de dados e gosto de resolver problemas.
