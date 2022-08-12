@@ -44,22 +44,6 @@
       height="40"
     />
   </a>
-    <a href="https://avatars.githubusercontent.com/u/6128107?s=200&v=4">
-    <img
-      src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"
-      alt="Git"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-      alt="Typescript"
-      width="40"
-      height="40"
-    />
-  </a>
      <a href="https://www.python.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -80,22 +64,6 @@
     <img
       src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png"
       alt="Figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg"
-      alt="AdobeXD"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
-      alt="NodeJS"
       width="40"
       height="40"
     />
