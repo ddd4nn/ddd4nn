@@ -8,7 +8,7 @@
 ### Bio
 -  Sou aspirante a engenheiro de dados e gosto de resolver problemas.
 -  Me aprofundando na stack de dados para futuramente me tornar um engenheiro de dados.
--  Estudando: Python, SQL e Power BI.
+-  Estudando: Python, SQL e Tecnologias relacionadas.
 
 ### Linguagens e Ferramentas
 
