@@ -6,9 +6,9 @@
  - Adoro mexer com peças de computador, sistemas e eletronicos. Também curto muito música e jogos.   
 
 ### Bio
-- 💕 Sou aspirante a engenheiro de dados e gosto de resolver problemas.
-- ✍ Me aprofundando na stack de dados para futuramente me tornar um engenheiro de dados.
-- 📚 Estudando: Python, SQL e Power BI.
+-  Sou aspirante a engenheiro de dados e gosto de resolver problemas.
+-  Me aprofundando na stack de dados para futuramente me tornar um engenheiro de dados.
+-  Estudando: Python, SQL e Power BI.
 
 ### Linguagens e Ferramentas
 
