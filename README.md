@@ -2,13 +2,13 @@
 
 ## Apresentação
  - Meu nome é Danilo Martins Acosta e tenho 22 anos.
- - Atualmente estou no quarto semestre de **Ciência da computação** no **Cesupa**.
- - Adoro mexer com peças de computador, sistemas e eletronicos. Também curto muito música e jogos.   
+ - Atualmente estou no primeiro semestre de Data Science na Fiap.
+ - Trabalho como Analista de dados.   
 
 ### Bio
--  Sou aspirante a engenheiro de dados e gosto de resolver problemas.
+-  Gosto de resolver problemas.
 -  Me aprofundando na stack de dados para futuramente me tornar um engenheiro de dados.
--  Estudando: Python, SQL e Tecnologias relacionadas.
+-  Estudando: Python, SQL, Java, e Tecnologias relacionadas.
 
 ### Linguagens e Ferramentas
 
